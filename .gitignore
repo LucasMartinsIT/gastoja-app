@@ -1,0 +1,13 @@
+# Arquivos de banco de dados (NÃO SUBIR DADOS PESSOAIS)
+*.db
+gastos.db
+
+# Compiladores e executáveis
+build/
+dist/
+*.spec
+*.exe
+
+# Cache do Python
+__pycache__/
+*.pyc
